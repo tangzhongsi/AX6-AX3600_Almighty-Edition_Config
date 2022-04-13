@@ -46,4 +46,5 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 #rm -rf ../lean/luci-theme-argon
 
 #frpc_v0.17.0
+pwd
 mv -f ../frp-Makefile package/lean/frp/Makefile
