@@ -44,7 +44,3 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 #git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 #git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 #rm -rf ../lean/luci-theme-argon
-
-#frpc_v0.17.0
-echo `pwd`
-mv -f `find ~/ -name "frp-Makefile"` package/lean/frp/Makefile
